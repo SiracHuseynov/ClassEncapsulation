@@ -1,0 +1,7 @@
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\ClassEncapsulationTask\ClassEncapsulationTask\bin\Debug\ClassEncapsulationTask.exe.config
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\ClassEncapsulationTask\ClassEncapsulationTask\bin\Debug\ClassEncapsulationTask.exe
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\ClassEncapsulationTask\ClassEncapsulationTask\bin\Debug\ClassEncapsulationTask.pdb
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\ClassEncapsulationTask\ClassEncapsulationTask\obj\Debug\ClassEncapsulationTask.csproj.AssemblyReference.cache
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\ClassEncapsulationTask\ClassEncapsulationTask\obj\Debug\ClassEncapsulationTask.csproj.CoreCompileInputs.cache
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\ClassEncapsulationTask\ClassEncapsulationTask\obj\Debug\ClassEncapsulationTask.exe
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\ClassEncapsulationTask\ClassEncapsulationTask\obj\Debug\ClassEncapsulationTask.pdb
